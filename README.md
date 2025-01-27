@@ -3,12 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Autour+One&duration=4500&pause=1000&color=06B6D4&width=435&lines=Computer Science Student;Back-End+Developer;Tech+Enthusiast" alt="Typing SVG" width="440" height="45">
-  </a>
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=A+Computer+Science+Student+;Tech+Enthusiast" alt="Typing SVG" /></a>
 
 
 ## 👨‍💻 About Me
