@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=A+Computer+Science+Student+;Tech+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=24&pause=1000&center=true&width=435&lines=A+Computer+Science+Student+;Tech+Enthusiast" alt="Typing SVG" /></a>
 
 
 ## 👨‍💻 About Me
